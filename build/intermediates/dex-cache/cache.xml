@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\8393fffddf9f3f5f2005c65e840eb258a3a78df1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e0a3752052ec28aa108634328c9571fe0381cd63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\ed467b9d47bd191b554096e9bc53929cb63227f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_387d030b6ee982793234ac17a760e1dd723489af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\796820075ac7687aa573d430a68619caf3821441\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_cacfa867efa4c67eabdc2de8241afd1b932ab160.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\JNI-Study\ScreenRecord\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_91fe4c7a3112d459a893453abf9e3feea880db84\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\3ef62849c2a66bdf1f0354b27d5738ec32403dfb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_0d5d3cab626d000f141078e3577f580bf6e377ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\e6bed68312056e7c64af4cb01ea1a85e8ea2be84\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_646c998071ab8d9c95d953acf4a7ab8977860810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\2c470bfccaf32a9bd7e8daa80662bb4a66006195\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1ea84617274fdf96cf516fab61b576d310b29d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\ed467b9d47bd191b554096e9bc53929cb63227f2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ddf23aeec99705e0092f45a0c7b16986696eaba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_bda23ffc48b2f04b08b223d336c708606fd00793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\e6bed68312056e7c64af4cb01ea1a85e8ea2be84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_3a6d55e1be50bc4995dff9620c06ac31d2433cad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\2c470bfccaf32a9bd7e8daa80662bb4a66006195\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_3a3d7b1e31a2ec91b64601d31570347b071e7a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\5952e393b4ce1a3758be697fca993cbd4f568837\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_e853fed55b8f99ecc7bae039836afd5c0066cd42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\ff275a03a794d1e1055b355404f39f656d50693a\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b7320ec807cf9b2d6b8ec1c1889fa1c5e3df7872.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\JNI-Study\ScreenRecord\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4f3c76184205f56ed760b0b4c0e842a187b2849">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3a5dcb3d077bd000bd02d0358c7c9a4096283c9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\ff275a03a794d1e1055b355404f39f656d50693a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_34bbf8cc5cabdadc37de6fcc5ccc3f0bb1750520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\eefc4451edd2cc129dc95e49c060230894b46e16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_91af8b75ebbe3fb03121a849d94ab9a6d759b0af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Test\.android\build-cache\8393fffddf9f3f5f2005c65e840eb258a3a78df1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\JNI-Study\ScreenRecord\app\build\intermediates\pre-dexed\debug\classes_62eb1937eef750b717d9100761ed5aed73bf2204.jar" />
+    </item>
+
+</items>

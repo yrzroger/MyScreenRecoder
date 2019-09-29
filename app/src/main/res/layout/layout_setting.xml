@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/settingDialog"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#80000000">
+
+    <TextView android:id="@+id/txtResolution"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="#FFFFFF"
+        android:gravity="left"
+        android:text=" 视频画质："
+        android:textSize="15sp"
+        android:textStyle="bold"/>
+    <RadioGroup
+        android:id="@+id/rgResolution"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rbt480P"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@drawable/radiobutton_font_selector"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:text=" 标清" />
+
+        <RadioButton
+            android:id="@+id/rbt720P"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@drawable/radiobutton_font_selector"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:text=" 高清" />
+
+        <RadioButton
+            android:id="@+id/rbt1080P"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textColor="@drawable/radiobutton_font_selector"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:text=" 超清" />
+    </RadioGroup>
+
+    <TextView android:id="@+id/txtAudio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:gravity="left"
+        android:text=" 音频来源："
+        android:textSize="15sp"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"/>
+
+    <RadioGroup
+        android:id="@+id/rgAudio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rbtAudioSystem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@drawable/radiobutton_font_selector"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:text=" 静音" />
+
+        <RadioButton
+            android:id="@+id/rbtAudioMIC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textColor="@drawable/radiobutton_font_selector"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:text=" 麦克风" />
+    </RadioGroup>
+
+    <TextView android:id="@+id/txtOrientation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:gravity="left"
+        android:text=" 录制方向："
+        android:textSize="15sp"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"/>
+
+    <RadioGroup
+        android:id="@+id/rgOrientation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rbtOrientationVertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@drawable/radiobutton_font_selector"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:text=" 竖屏" />
+
+        <RadioButton
+            android:id="@+id/rbtOrientationHorizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textColor="@drawable/radiobutton_font_selector"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:text=" 横屏" />
+    </RadioGroup>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@android:color/transparent">
+
+        <ImageButton
+            android:id="@+id/btn_cancel"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginBottom="5dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/button_selector"
+            android:gravity="center"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/no"/>
+
+        <ImageButton
+            android:id="@+id/btn_ok"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="5dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_selector"
+            android:gravity="center"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/yes"/>
+    </RelativeLayout>
+</LinearLayout>

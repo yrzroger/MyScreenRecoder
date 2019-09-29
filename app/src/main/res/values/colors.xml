@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPressed">#50d6d7d7</color>
+    <color name="colorNormal">#70d6d7d7</color>
+    <color name="yellow">#eb4f38</color>
+    <color name="dark_gray">#8a8a8a</color>
+    <color name="devider_line">#E7E7E7</color>
+    <color name="blue">#4D9EC1</color>
+    <color name="client_black_color">#434343</color>
+</resources>

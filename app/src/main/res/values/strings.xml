@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SR</string>
+    <string name="accessibility">开启悬浮球辅助功能</string>
+    <string name="tip">为保证悬浮球正常使用，请将其加入系统清理白名单</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_discover">发现</string>
+    <string name="tab_me">我</string>
+    <string name="tab_classify">分类</string>
+    <string name="unknownmime_string">unknown MIME</string>
+    <string name="samplerate_string">%1$d Hz</string>
+    <string name="numchannels_string">%1$d Ch</string>
+    <string name="widthheight_string">%1$dx%2$d</string>
+    <string name="fps_string">%1$2.3f fps</string>
+
+    <string name="label_Title">Title</string>
+    <string name="RootPath" translatable="false">/sdcard/ScreenRecorder</string>
+</resources>
